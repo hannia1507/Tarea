@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo_tabasco
+id Consulta
+id btnConsultar
+id emailField
+id loginButton
+id logoImage
+id logoutButton
+id main
+id passwordField
+id recyclerViewResults
+id registerButton
+id reportGrid
+id reportsTitle
+id spinnerTables
+id tvTitle
+layout activity_consultareporte
+layout activity_main
+layout activity_reports
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.PoliReport
+style Theme.PoliReport
+xml backup_rules
+xml data_extraction_rules

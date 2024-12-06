@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#F5F9F9"
+    android:gravity="center">
+
+    <!-- Título de Reportes -->
+
+    <!-- Grid de elementos (1 cuadro de botón de ejemplo) -->
+    <TextView
+        android:id="@+id/reportsTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:text="REPORTES"
+        android:textColor="#9D1D3C"
+        android:textSize="40sp" />
+
+    <GridLayout
+        android:id="@+id/reportGrid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:columnCount="2"
+        android:rowCount="3">
+
+        <Button
+            android:id="@+id/Consulta"
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:backgroundTint="#9D1D3C"
+            android:text="Consultar"
+            android:textColor="#FFFFFF" />
+    </GridLayout>
+
+    <!-- Botón de Log out -->
+    <Button
+        android:id="@+id/logoutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#9D1D3C"
+        android:text="Log out"
+        android:textColor="#FFFFFF" />
+</LinearLayout>
+

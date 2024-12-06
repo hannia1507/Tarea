@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339436038812",
+    "project_id": "polireport-4f841",
+    "storage_bucket": "polireport-4f841.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339436038812:android:e0c2dcd55be68d2749db59",
+        "android_client_info": {
+          "package_name": "com.example.polireport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2TkR11UWLukgmKE7G9b8tybL3pEP4Fnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

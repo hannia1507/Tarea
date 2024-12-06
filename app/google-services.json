@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607840654684",
+    "project_id": "polireport-f000b",
+    "storage_bucket": "polireport-f000b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607840654684:android:0e1c2a24b74e055bcb5d99",
+        "android_client_info": {
+          "package_name": "com.example.polireport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX6CVKFVAyDvV6_BN63WN0GhLVIZaeVY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
